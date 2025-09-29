@@ -96,6 +96,30 @@ export const projects = [
     iconLists: ["/python.svg", "/tensorflow.svg", "/opencv.svg", "/numpy.svg"],
     link: "https://github.com/diksha1245",
   },
+  {
+    id: 4,
+    title: "Personal Portfolio Website",
+    des: "Responsive portfolio website built with Next.js and Tailwind CSS showcasing projects, experience, and skills.",
+    img: "/portfolio.jpeg",
+    iconLists: ["/nextjs.svg", "/react.svg", "/tailwind.svg", "/vercel.svg"],
+    link: "https://github.com/diksha1245",
+  },
+    {
+      id: 5,
+      title: "Autonomous Vehicle Navigation",
+      des: "Research on AI algorithms for real-time autonomous vehicle navigation using nuScenes dataset, published in IEEE conference.",
+      img: "/autonomous.jpeg",
+      iconLists: ["/python.svg", "/pytorch.svg", "/opencv.svg", "/numpy.svg"],
+      link: "https://github.com/diksha1245",
+    },
+    {
+      id: 6,
+      title: "AI Blog Writer - Full Stack Application",
+      des: "Developed a full-stack AI blog writer application with React, Node.js, and MongoDB featuring user authentication and content management.",
+      img: "/ecommerce.jpeg",
+      iconLists: ["/react.svg", "/nodejs.svg", "/mongodb.svg", "/express.svg"],
+      link: "https://github.com/diksha1245",
+    }
 ];
 
 export const testimonials = [
